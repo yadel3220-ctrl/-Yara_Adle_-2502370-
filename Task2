@@ -31,19 +31,4 @@
 <td>تغيير لون النص</td>
 </tr>
 <tr>
-<td>background-color</td>
-<td>تغيير لون الخلفية</td>
-</tr>
-<tr>
-<td>font-size</td>
-<td>تحديد حجم الخط</td>
-</tr>
-</table>
-<h2>المراجع</h2>
-<ul>
-<li><a href="https://www.w3schools.com/css/">W3Schools - CSS</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">MDN - CSS</a></li>
-<li><a href="https://elzero.org/">Elzero Web School</a></li>
-</ul>
-</body>
-</html>
+<td>b
