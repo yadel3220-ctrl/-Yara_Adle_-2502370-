@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<"html lang="ar>
+  <head>
+    <"meta charset="UTF-8>
+    <meta name="viewport"content="width=device-width,initial-initial-scale=1.0>"
+    <title>لغه cssولمسات الجمال:تقرير مبسط عن دور لغع والتنسيق (cssفي تغير ألوان وخطوط وتصميم صفحات الويب لتبدو جذابه للمستخدم) </title>
+  </head>
+  <body>
+    <h1>لغهcssولمسات الجمال:تقرير مبسط عن دور لغه التنسيق(cssفي تغير ألوان وخطوط وتميم صفحات الويب لتبدو جذابه للمستخدم)</h1>
+   <p>اعداد</p> <p>yara adle</p>
+<p>رقم الجامعي</p> <p>2502370</p>
+   <p>شكشن</p> <p>177</p>
+   <p>تحت اشراف</p> <p>دكتوره مها زغلول</p>
+    <h2>المقدمه</h2>
+    <p>أصبحت مواقع الويب من أهم وسائل التواصل والحصول على المعلومات وتقديم الخدمات في العصر الرقمي.</p>
+    <h2>عرض الموضوع</h2>
+  <h3>1- مفهوم CSS وأهميتها لغة</h3>
+<p>CSS هي لغة تنسيق تعمل بالتكامل مع HTML، وهي المسؤولة عن تحديد شكل العناصر مثل لون العنوان وحجم الخط وعرض الصورة، وتكمن اهميتها في فصل المحتوى عن التصميم.</p>
+<h3>2- في تنسيق الالوان والخطوط دور CSS</h3>
+<p>توفر CSS مجموعة واسعة من الخصائص للتحكم في الألوان والخطوط والخلفيات مثل خاصية color لتحديد لون النص و background-color للخلفية و font-family لنوع الخط.</p>
+<h3>3- في تنظيم تخطيط الصفحة دور CSS</h3>
+<p>لا يقتصر دور CSS على الألوان فقط بل يمتد الى تنظيم التخطيط باستخدام نموذج الصندوق Box Model ونظام Flexbox و Grid والتصميم المتجاوب Responsive Design.</p>
+<h3>4- في تحسين تجربة المستخدم اثر CSS</h3>
+<p>تعتبر لغة <strong>CSS</strong> مهمة في <b>تنسيق صفحات الويب</b> وتحسين تجربة المستخدم وتوحيد الهوية البصرية وتسهيل قراءة المحتوى على جميع الأجهزة.</p> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="250">
+<table border="1">
+<tr>
+<th>الخاصية</th>
+<th>الوظيفة</th>
+</tr>
+<tr>
+<td>color</td>
+<td>تغيير لون النص</td>
+</tr>
+<tr>
+<td>background-color</td>
+<td>تغيير لون الخلفية</td>
+</tr>
+<tr>
+<td>font-size</td>
+<td>تحديد حجم الخط</td>
+</tr>
+</table>
+<h2>المراجع</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/core/CSS_Layout/Responsive_Design"> css-layout</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> CSS</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/learn-web-development/core/css-layout/Rosposive Desian"> MDN-Design</a></li>
+</ul>
+</body>
+</html>
